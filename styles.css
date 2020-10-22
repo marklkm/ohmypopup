@@ -42,7 +42,7 @@ p {
 }
 
 cite {
-  font-size: 24px;
+  font-size: 5vmin;
   position: relative;
   z-index: 10;
 }
